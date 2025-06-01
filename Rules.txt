@@ -1,0 +1,28 @@
+Inbound rules:
+cirkit designer.exe
+eclipse.exe
+Firefox
+McAfee Shared Service Host
+mdns-discovery.exe
+zoom.exe
+Mail and Calender
+mDNS(UDP-In)
+Microsoft Edge(mDNS-In)
+
+
+
+Outbound Rules:
+Spotify Music
+App Installer
+Captivate Portal Flow
+AllJoyn Router(TCP-Out)
+AllJoyn Router(UDP-Out)
+Core Networking
+Game Bar
+Get Help
+IndiaBix Aptitude
+McAfee
+Microsoft Sticky Notes
+Mixed Reality Portal
+Windows Maps
+
